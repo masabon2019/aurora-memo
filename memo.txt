@@ -1,3 +1,4 @@
 GitHubを勉強します。
 
 gittest3で追加しました。
+gittest1で文言を追加しました。
